@@ -1,0 +1,11 @@
+Acquired by Heiko Stegmann in 2016.
+
+Data can be used for external marketing etc. 
+
+Shown is a 3D NAND chip (Chip is somewhat outdated for todays standards. More modern chips have much smaller structures).
+
+Data has been processed to reduce noise, align z-planes and corrected for varying z-spacing by Heiko
+
+A model has been trained on denoised images on arivis Cloud by Manoj Mathew and Simon Franchini.
+
+arivis Cloud model was applied to the corrected 3D stack in arivis Pro by Sandra Lemke.

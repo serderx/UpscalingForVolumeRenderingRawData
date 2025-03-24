@@ -1,0 +1,13 @@
+About the folder:
+
+This folder contains the main dataset with some analysis of the dataset. You will also find some marketing material which has been used before.
+
+Source/Credit:
+
+This is an internal ZEISS dataset. More can be found here: https://www.zeiss.com/microscopy/en/resources/insights-hub/life-sciences/organoid-analysis.html
+
+Application:
+
+1. Please follow the results of the poster named "Organoid poster.....pptx"
+
+contact person: for any inquiry contact joy-james.costa@zeiss.com

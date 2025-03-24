@@ -1,0 +1,13 @@
+About the folder:
+
+This folder contains an XRM data of a fly
+
+Source/Credit:
+unknown
+
+Application:
+
+1. Segmenting different parts of fly
+2. Measuring the organ to volume ration
+
+contact person: if you need any information please let joy-james.costa@zeiss.com know

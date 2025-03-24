@@ -1,0 +1,12 @@
+Description of the folder:
+
+The folder contains a sis file which is a mouse heart muscle. This is a VoluEM dataset
+
+Credit: read the customer release form signed-heart muscle
+
+Applications:
+
+1. Segmenting of different cellular elements/structures which is your reason of interest
+2. Analyzing the morphological features
+
+if you need anything to know, please contact joy-james.costa@zeiss.com
