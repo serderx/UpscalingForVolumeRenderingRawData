@@ -1,0 +1,2 @@
+durchschnittsname,ssim_dlss,psnr_dlss,mse_dlss,ssim_inter_linear,psnr_inter_linear,mse_inter_linear,ssim_inter_nearest,psnr_inter_nearest,mse_inter_nearest,ssim_inter_lanczos,psnr_inter_lanczos,mse_inter_lanczos,ssim_inter_cubic,psnr_inter_cubic,mse_inter_cubic
+gesamter_schnitt,0.8716981702319377,27.048670800089933,180.94152307581018,0.8828863641734411,35.104647111519704,95.0661206490055,0.8577303414821001,29.342136589661532,147.76164809992287,0.8708465763500147,31.99526259007838,121.16799651974024,0.8773090623150971,32.48392579040419,112.10038099333418
